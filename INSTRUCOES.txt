@@ -1,0 +1,37 @@
+=====================================================
+
+
+Transferir arquivos para serviço Apache(Xampp/Lamp/Wamp)
+
+
+=====================================================
+
+
+Executar o arquivo banco.sql em banco de dados MySQL.
+
+
+=====================================================
+
+
+Editar o arquivo classes/connection.php, nas linhas 4 a 7 editar com as informações do banco de dados local.
+
+
+=====================================================
+
+
+Rodar o arquivo index.php pelo servidor.
+
+
+=====================================================
+
+
+Sistema disponível na internet pelo link: http://sapeca.atwebpages.com/
+
+
+=====================================================
+
+
+Senha de acesso a área de moderação: euajudosapeca
+
+
+=====================================================
